@@ -1,7 +1,7 @@
 # oanda_dashboard.py
 import streamlit as st
 import pandas as pd
-google_sheet_url = "https://docs.google.com/spreadsheets/d/TON_ID_ICI/export?format=csv&id=TON_ID_ICI&gid=0"
+google_sheet_url = "https://docs.google.com/spreadsheets/d/1wFpTv_uitussT5rGXa7c4C237wwU6w09TahAw7CN7fk/export?format=csv&gid=0"
 
 st.set_page_config(page_title="Snipegold - Dashboard", layout="wide")
 st.title("📊 Dashboard du Bot Snipegold")
